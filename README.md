@@ -1,4 +1,4 @@
-![logo](https://github.com/Madhukar19996/Madhukar19996/blob/main/WhatsApp%20Image%202025-05-25%20at%2018.22.27_c651458d.jpg)
+![logo](https://github.com/Madhukar19996/Madhukar19996/blob/main/GitHub%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Madhukar Pandey</h1>
 <h3 align="center">A passionate SDET from India</h3>
 
